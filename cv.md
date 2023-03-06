@@ -35,3 +35,13 @@ function arrayDiff(a, b){
 let result = arrayDiff([1,3,5,5,8,5], [1,5,3]);
 console.log(result);
 ```
+
+## Courses:
+
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* learnjavascript.ru: JavaScript Manual (in progress)
+
+## Languages:
+
+* __English:__ Pre-Intermediate/Intermediate
+* __Russian:__ Native
