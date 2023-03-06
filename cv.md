@@ -1,24 +1,20 @@
 # Elvira Karyakina
-===
 
 ## Contact information:
 
 * __Phone:__ +7 904 5379675
 * __E-mail:__ ya.neznayu456@mail.ru
 * __GitHub:__ @Allowera
-===
 
 ## About Myself:
 
 I have a strong desire to learn and acquire new skills. Diligent in performing the tasks in the best possible way and on time. Hardworking and sociable enough to work in a team.
-===
 
 ## Skills
 
 * HTML/CSS
 * JavaScript (Basic)
 * Git/GitHub
-===
 
 ## Code example:
 
@@ -39,4 +35,3 @@ function arrayDiff(a, b){
 let result = arrayDiff([1,3,5,5,8,5], [1,5,3]);
 console.log(result);
 ```
-===
